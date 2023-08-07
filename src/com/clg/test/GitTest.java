@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("gitteeeee");
         System.out.println("getee修改代码");
         System.out.println("本地修改代码");
+        System.out.println("=======================pull code test");
 
     }
 }
