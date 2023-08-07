@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("update by master");
         System.out.println("即将冲突update by hot-fix");
         System.out.println("gitteeeee");
+        System.out.println("getee修改代码");
 
     }
 }
