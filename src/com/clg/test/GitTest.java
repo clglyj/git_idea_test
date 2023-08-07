@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("add by  hot-fix");
         System.out.println("update by master");
         System.out.println("即将冲突update by hot-fix");
+
     }
 }
