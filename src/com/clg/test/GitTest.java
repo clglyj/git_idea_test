@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("=======================");
         System.out.println("=======================12323456");
         System.out.println("add by  hot-fix");
+        System.out.println("即将冲突update by hot-fix");
     }
 }
